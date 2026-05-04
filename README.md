@@ -24,4 +24,4 @@ o         [Data Visualization for Invasive Species](https://github.com/username/
 
 📄 CV
 
-o        [Download My CV]([📄 Download My CV (PDF)](https://raw.githubusercontent.com/Christopher-Vhs/Christopher-Vhs/59970a405213dc63d3c7f86eb62c82cc1b6e9316/Christopher%20Wawa%20CV_overleaf.pdf)) 
+o        ([📄 Download My CV (PDF)](https://raw.githubusercontent.com/Christopher-Vhs/Christopher-Vhs/59970a405213dc63d3c7f86eb62c82cc1b6e9316/Christopher%20Wawa%20CV_overleaf.pdf)) 
