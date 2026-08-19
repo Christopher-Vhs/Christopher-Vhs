@@ -4,23 +4,24 @@ o      🎓 Software Engineering Student from Belgium Campus iTversity
 
 o      🌱 Passionate about AI, IoT, and creating projects that are impactful
 
-o       💼 Seeking internship/graduate opportunities in software development 
+o      💼 Seeking internship/graduate opportunities in software development 
 
 🚀 Skills
 
-o        Programming: Python, Java, C++, JavaScript, SQL
+o        Programming: C#, Java, Python, JavaScript, SQL
 
 o        Tools: Git, Docker, Power BI, Github
 
-o         Cloud: AWS, Azure, Supabase 
+o        Cloud: AWS, Azure, Supabase 
 
  📂 Projects
+ 
+o         [Personal FinancialAnalytics Platform](https://github.com/Christopher-Vhs/Personal-Financial-Analytics-Platform.git) 
 
 o         [Smart Trash Sorting Robot](https://github.com/username/smart-trash-robot) 
 
 o         [Solar Car Dashboard](https://github.com/username/solar-car) 
 
-o         [Personal FinancialAnalytics Platform](https://github.com/Christopher-Vhs/Personal-Financial-Analytics-Platform.git) 
 
 📄 CV
 
