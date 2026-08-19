@@ -20,7 +20,7 @@ o         [Smart Trash Sorting Robot](https://github.com/username/smart-trash-ro
 
 o         [Solar Car Dashboard](https://github.com/username/solar-car) 
 
-o         [Data Visualization for Invasive Species](https://github.com/username/data-viz-invasive) 
+o         [Personal FinancialAnalytics Platform](https://github.com/Christopher-Vhs/Personal-Financial-Analytics-Platform.git) 
 
 📄 CV
 
