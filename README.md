@@ -16,7 +16,7 @@ o        Cloud: AWS, Azure, Supabase
 
  📂 Projects
  
-o         [Personal FinancialAnalytics Platform](https://github.com/Christopher-Vhs/Personal-Financial-Analytics-Platform.git) 
+o         [Personal Financial Analytics Platform](https://github.com/Christopher-Vhs/Personal-Financial-Analytics-Platform.git) 
 
 o         [Smart Trash Sorting Robot](https://github.com/username/smart-trash-robot) 
 
