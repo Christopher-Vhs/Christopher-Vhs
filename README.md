@@ -4,15 +4,22 @@ o      🎓 Software Engineering Student from Belgium Campus iTversity
 
 o      🌱 Passionate about AI, IoT, and creating projects that are impactful
 
-o      💼 Seeking internship/graduate opportunities in software development 
+o      💼 Seeking internship/graduate opportunities in software engineering
 
 🚀 Skills
 
-o        Programming: C#, Java, Python, JavaScript, SQL
+o       Programming Languages: C#, Java, Python, HTML, CSS, JavaScript
 
-o        Tools: Git, Docker, Power BI, Github
+o       Databases: PostgreSQL, MongoDB, Microsoft SQL Server, Transact-SQL
 
-o        Cloud: AWS, Azure, Supabase 
+o       Libraries and Tools: Git, GitHub, AWS, VS Code, Visual Studio, IntelliJ, React
+
+o       Backend and Frameworks: Node.js, Express.js, Django, Flask, ASP.NET Core, RESTful APIs, ASP.NET Web API,
+        Spring Boot, Supabase, Mongoose
+
+o       Other: Agile methodologies, data structures, problem solving
+
+
 
  📂 Projects
  
