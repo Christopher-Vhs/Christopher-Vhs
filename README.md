@@ -12,7 +12,7 @@ o      💼 Seeking internship/graduate opportunities in software engineering
 
 o       Programming Languages: C#, Java, Python, HTML, CSS, JavaScript
 
-o       Databases: PostgreSQL, MongoDB, Microsoft SQL Server, Transact-SQL
+o       Databases: PostgreSQL, MongoDB, Microsoft SQL Server
 
 o       Libraries and Tools: Git, GitHub, AWS, VS Code, Visual Studio, IntelliJ, React
 
