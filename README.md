@@ -6,6 +6,8 @@ o      🌱 Passionate about AI, IoT, and creating projects that are impactful
 
 o      💼 Seeking internship/graduate opportunities in software engineering
 
+
+
 🚀 Skills
 
 o       Programming Languages: C#, Java, Python, HTML, CSS, JavaScript
