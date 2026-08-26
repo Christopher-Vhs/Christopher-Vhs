@@ -18,9 +18,9 @@ o        Cloud: AWS, Azure, Supabase
  
 o         [Personal Financial Analytics Platform](https://github.com/Christopher-Vhs/Personal-Financial-Analytics-Platform.git) 
 
-o         [Smart Trash Sorting Robot](https://github.com/username/smart-trash-robot) 
+o         [Smart Trash Sorting Robot](https://github.com/Christopher-Vhs/smart-trash-robot) 
 
-o         [Solar Car Dashboard](https://github.com/username/solar-car) 
+o         [Programming Model Solver](https://github.com/Christopher-Vhs/Programming-Model-Solver) 
 
 
 📄 CV
