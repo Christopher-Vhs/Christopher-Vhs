@@ -27,7 +27,7 @@ o       Other: Agile methodologies, data structures, problem solving
  
 o         [Personal Financial Analytics Platform](https://github.com/Christopher-Vhs/Personal-Financial-Analytics-Platform.git) 
 
-o         [Smart Trash Sorting Robot](https://github.com/Christopher-Vhs/smart-trash-robot) 
+o         [AI Kanban Board App](https://github.com/Christopher-Vhs/Full-Stack-AI-Kanban-Board-App) 
 
 o         [Programming Model Solver](https://github.com/Christopher-Vhs/Programming-Model-Solver) 
 
