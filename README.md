@@ -34,4 +34,4 @@ o         [Programming Model Solver](https://github.com/Christopher-Vhs/Programm
 
 📄 CV
 
-o        ([📄 Download My CV (PDF)](https://raw.githubusercontent.com/Christopher-Vhs/Christopher-Vhs/59970a405213dc63d3c7f86eb62c82cc1b6e9316/Christopher%20Wawa%20CV_overleaf.pdf)) 
+o        ([📄 Download My CV (PDF)](https://github.com/Christopher-Vhs/Christopher-Vhs/blob/main/Christopher_Wawa_CV.pdf)) 
